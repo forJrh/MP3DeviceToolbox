@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3DeviceToolbox", "MP3DeviceToolbox.csproj", "{E8DB4A42-3455-44BB-8578-D442FAD499B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DB4A42-3455-44BB-8578-D442FAD499B5}.Debug|x86.ActiveCfg = Debug|x86
+		{E8DB4A42-3455-44BB-8578-D442FAD499B5}.Debug|x86.Build.0 = Debug|x86
+		{E8DB4A42-3455-44BB-8578-D442FAD499B5}.Release|x86.ActiveCfg = Release|x86
+		{E8DB4A42-3455-44BB-8578-D442FAD499B5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D36537-171D-4B1A-A9B1-1EEA849F6086}
+	EndGlobalSection
+EndGlobal
